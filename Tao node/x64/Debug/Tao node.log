@@ -1,0 +1,3 @@
+﻿  Tao node.cpp
+F:\NMLT\nmlt\DSLK Don\Tao node\Tao node.cpp(50,11): error C2082: redefinition of formal parameter 'p'
+F:\NMLT\nmlt\DSLK Don\Tao node\Tao node.cpp(74,20): error C2065: 'p': undeclared identifier
